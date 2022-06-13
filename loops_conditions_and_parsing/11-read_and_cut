@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Read and extract fields in file "/etc/passwd"
+# Read and extract fields in file, use while loop
 
 FILE="/etc/passwd"
 
