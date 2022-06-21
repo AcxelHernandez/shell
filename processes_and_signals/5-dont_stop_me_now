@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# kill script process use command kill
+
+kill "$(ps -x | pgrep -f beyond)"
