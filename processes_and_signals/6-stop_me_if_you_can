@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# script kills script stops 4-to_infinity_and_beyond
+# No use kill or killall
+
+pkill -f beyond
