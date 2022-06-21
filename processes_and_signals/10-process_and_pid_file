@@ -4,7 +4,7 @@
 # Receiving a SIGQUIT or SIGTERM signal
 
 function love() {
-    rm /var/run/myscrip.pid
+    rm /var/run/myscript.pid
     exit
 }
 
