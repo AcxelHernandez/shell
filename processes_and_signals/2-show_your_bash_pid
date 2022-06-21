@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Script extends previous exercise command
+# No use pgrep and shellcheck disable=SC2009
+
+./1-list_your_processes | grep "bash"
